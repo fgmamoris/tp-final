@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias_pesca">
+        <item>Cañas</item>
+        <item>Carretes</item>
+        <item>Anzuelos</item>
+        <item>Hilos</item>
+        <item>Cebos</item>
+        <item>Señuelos</item>
+        <item>Aparejos</item>
+        <item>Flotadores</item>
+        <item>Ropa de pesca</item>
+        <item>Accesorios de pesca</item>
+        <item>Líneas de pesca</item>
+        <item>Redes y trampas</item>
+        <item>Embarcaciones de pesca</item>
+        <item>Sillas y sombrillas</item>
+        <item>Cajas y mochilas</item>
+        <item>Linternas y linternas frontales</item>
+        <item>Cámaras submarinas</item>
+        <item>GPS y localizadores de peces</item>
+        <item>Herramientas y accesorios de limpieza</item>
+        <item>Balsas y chalecos salvavidas</item>
+        <item>Libros y guías de pesca</item>
+        <item>Equipos de pesca con mosca</item>
+        <item>Otros accesorios y equipos</item>
+    </string-array>
+</resources>
